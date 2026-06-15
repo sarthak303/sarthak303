@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthak303" alt="sarthak303" /></a> </p>
 
-- 🔭 I’m currently working on **collaborative research with a professor at Virginia Tech, focusing on advanced Machine Learning and AI-driven legal assistant systems.**
-
 - 🌱 I’m currently learning **Large Language Models**
 
 - 👯 I’m looking to collaborate on **Generative AI**
